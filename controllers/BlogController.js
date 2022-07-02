@@ -1,5 +1,5 @@
 //importamos el Modelo
-import BlogModel from "../models/BlogModels";
+import BlogModel from "../models/BlogModel.js";
 
 //** Métodos para el CRUD **/
 
